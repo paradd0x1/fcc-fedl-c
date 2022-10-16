@@ -1,6 +1,6 @@
 # Drum Machine
 
-View on: https://codepen.io/plinaac/pen/mdLQazE
+View on: https://codepen.io/plinaac/full/mdLQazE
 
 Uses: 
 - React
