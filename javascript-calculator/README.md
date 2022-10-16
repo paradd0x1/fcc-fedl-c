@@ -1,6 +1,6 @@
 # Javascript Calculator
 
-View on: https://codepen.io/plinaac/pen/RwyELvj
+View on: https://codepen.io/plinaac/full/RwyELvj
 
 Uses: 
 - React
