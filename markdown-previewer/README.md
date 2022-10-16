@@ -1,7 +1,7 @@
 # Markdown Previewer
 
 View on:
-https://codepen.io/plinaac/pen/LYmXjNv
+https://codepen.io/plinaac/full/LYmXjNv
 
 Uses: 
 - React + Redux
