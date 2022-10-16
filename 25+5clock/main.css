@@ -1,0 +1,14 @@
+#clock {
+  width: 600px;
+  
+  .btn:focus {
+    box-shadow: none;
+    svg {
+      cursor: pointer;
+    }
+  }
+  
+  #designer-details {
+    font-size: 12px;
+  }
+}
