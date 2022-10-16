@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+#calculator-container {
+  width: 300px;
+  font-family: 'Space Mono';
+}
