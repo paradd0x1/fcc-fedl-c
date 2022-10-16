@@ -1,7 +1,7 @@
 # Random Quote Machine
 
 View on:
-https://codepen.io/plinaac/pen/ZEomOdv
+https://codepen.io/plinaac/full/ZEomOdv
 
 Uses:
 - React + Redux
